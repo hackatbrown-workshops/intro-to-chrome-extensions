@@ -34,7 +34,7 @@ line
 
 #### 9) 
 Take a look at how to update your status using Twit --- also make sure you have
-a Twitter account, that your account is connected with your phone, and that you 
+a Twitter account, that your account is connected to your phone, and that you 
 get your consumer_key/consumer_secret/access_token/access_token_secret by visiting
 https://apps.twitter.com/
 
