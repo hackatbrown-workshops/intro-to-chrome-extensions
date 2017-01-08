@@ -1,18 +1,17 @@
  
- This is code for an extension I built for the Google Chrome web browser!
- Extensions are small programs that help personalize your browsing experieince.
- This extension tweets the current link you are looking at. 
+ ###### This is code for an extension I built for the Google Chrome web browser!
+ ###### Extensions are small programs that help personalize your browsing experieince.
+ ###### This extension tweets the current link you are looking at. 
 
-#### 1) 
-First create your manifest.json file: make sure you specify the
-manifest_version, name, and version
+#### 1) ###### First create your manifest.json file: make sure you specify the
+###### manifest_version, name, and version
 
-2) 
+#### 2) 
 After you decide what your chrome extension will do, update the permissions.
 In this example, we specify tabs and Twitter.com since we will be making calls 
 using the chrome.tabs API and Twitter API
 
-3) 
+#### 3) 
 In this example, we do a browser_action. Alternatively, you could do a page_action.
 The browser_action allows us to put icons on the top right hand corner, have a tooltip,
 badge, or popup. 
