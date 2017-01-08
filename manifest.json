@@ -12,6 +12,9 @@
   "name": "My First Chrome Extension",
   "version": "1.0",
   "description": "This extension will tweet the link of the current page you are looking at",
+  // API to request permissions
+  // in this example we are asking for permission
+  // to use the chrome.tabs API and Twitter API
   "permissions": [
     "tabs",
     "*://*.twitter.com/*"
