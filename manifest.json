@@ -1,4 +1,4 @@
-// https://developer.chrome.com/extensions/getstarted
+// most of this code was taken from here: https://developer.chrome.com/extensions/getstarted
 
 // metada file in JSON which delcares what your chrome 
 // extension will do and permissions required to do
@@ -27,6 +27,6 @@
     // will look like
     "default_popup": "popup.html",
     // will appear when you hover over the link
-    "default_title": "Anquixote"
+    "default_title": "click me!"
   }
 }
