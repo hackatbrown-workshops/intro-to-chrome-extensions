@@ -1,10 +1,11 @@
  
- ###### This is code for an extension I built for the Google Chrome web browser!
- ###### Extensions are small programs that help personalize your browsing experieince.
- ###### This extension tweets the current link you are looking at. 
+ ### This extension tweets the current link you are looking at. 
+ * Extensions are small programs that help personalize your browsing experieince.
+ 
 
-#### 1) ###### First create your manifest.json file: make sure you specify the
-###### manifest_version, name, and version
+#### 1) 
+* First create your manifest.json file: make sure you specify the
+* manifest_version, name, and version
 
 #### 2) 
 After you decide what your chrome extension will do, update the permissions.
