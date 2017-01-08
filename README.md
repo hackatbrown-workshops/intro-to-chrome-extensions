@@ -1,5 +1,5 @@
  
- This extension tweets the current link you are looking at. Extensions are small programs that help personalize your browsing experieince.
+ This extension tweets the current link you are looking at. Extensions are small programs that help personalize your browsing experience.
  
 
 #### 1) 
