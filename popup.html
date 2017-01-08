@@ -7,6 +7,11 @@
   	<font color="#FF5733">
     <b> <img src="twitterLogo.png" style="width:20px;height:15px;"> <align="left"> Tweeting: </b>
     <!-- ^^ specify the font color, make the font bold, add an image of the twitter logo and adjust the size and alignment, add some text -->
+    <p id="savedLinks"></p>
+    <!-- ^^ let's figure out what we are tweeting! We will populate savedLinks by using the chrome.tabs API to return the link we are currently looking at-->
+
+    <script src="popup.js"></script>
+    <!-- ^^ the file where we'll make our API calls from-->
     </font>
   </body>
 </html>
